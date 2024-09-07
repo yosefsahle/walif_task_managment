@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Task Management App
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add, edit, and complete tasks
+- Tasks are persisted using shared preferences
+- Notifications remind users about upcoming tasks
+- Light and dark mode toggle
+- Random motivational quote on the home screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Clone this repository
+2. Install dependencies(flutter pub get)
+3. Run the app(flutter run)
